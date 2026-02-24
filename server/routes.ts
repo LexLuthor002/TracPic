@@ -132,6 +132,16 @@ async function seedDatabase() {
       },
       {
         collectionId: col1.id,
+        name: "Neon Drift #7",
+        description: "Speed through the neon city.",
+        imageUrl: "https://images.unsplash.com/photo-1614728263952-84ea206f99b6",
+        price: "8.476",
+        rarity: "Legendary",
+        ownerId: user1.id,
+        likes: 169
+      },
+      {
+        collectionId: col1.id,
         name: "Void Walker #33",
         description: "Walk the void.",
         imageUrl: "https://images.unsplash.com/photo-1614730321146-b6fa6a46bcb4",
@@ -149,6 +159,36 @@ async function seedDatabase() {
         rarity: "Legendary",
         ownerId: user2.id,
         likes: 496
+      },
+      {
+        collectionId: col1.id,
+        name: "Quantum Echo #5",
+        description: "Echoes of a quantum past.",
+        imageUrl: "https://images.unsplash.com/photo-1633167606207-d840b5070fc2",
+        price: "4.201",
+        rarity: "Rare",
+        ownerId: user1.id,
+        likes: 208
+      },
+      {
+        collectionId: col1.id,
+        name: "TRAC Genesis #1",
+        description: "The beginning of it all.",
+        imageUrl: "https://images.unsplash.com/photo-1635322966219-b75ed372eb01",
+        price: "2.19",
+        rarity: "Legendary",
+        ownerId: user1.id,
+        likes: 136
+      },
+      {
+        collectionId: col2.id,
+        name: "Shadow Prism #54",
+        description: "Light trapped in shadows.",
+        imageUrl: "https://images.unsplash.com/photo-1618005198919-d3d4b5a92ead",
+        price: "1.217",
+        rarity: "Uncommon",
+        ownerId: user2.id,
+        likes: 88
       }
     ]);
   }
