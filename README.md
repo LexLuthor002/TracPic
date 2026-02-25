@@ -64,6 +64,8 @@
   5. Smart contract executes transaction → TRAC logs update permanently.
 </p>
 
+<h1>Prototype 🔗 : <a href="https://id-preview--ec869c78-2e16-4c72-9776-62c99f4ec486.lovable.app/stats" /></h1>
+
 <hr style="border:2px solid #4B0082;"/>
 
 <h2 style="color:#4B0082;">📷 Screenshots</h2>
